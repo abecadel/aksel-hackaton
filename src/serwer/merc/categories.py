@@ -6,12 +6,15 @@ class MercCategories():
         self.cats = pd.read_csv(cat_file)
 
     def prep_query(self, cat):
-        if cat is "coffee_mug":
-            return "cup"
-        elif cat is "granny_smith":
-            return "apple"
-        else:
-            return cat
+        print(cat)
+        if cat == "coffee_mug":
+            cat = "cup"
+        elif cat == "granny_smith":
+            cat = "apple"
+        elif cat == "cowboy_boot":
+            cat = "boots"
+
+        return cat
 
     def find_by_cat3(self, cat):
         cat = self.prep_query(cat)

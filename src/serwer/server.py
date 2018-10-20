@@ -67,7 +67,7 @@ def upload_file():
         data = np.fromstring(in_memory_file.getvalue(), dtype=np.uint8)
         color_image_flag = 1
         img = cv2.imdecode(data, color_image_flag)
-        img = cv2.resize(img, (200, 200))
+        # img = cv2.resize(img, (200, 200))
 
         with graph.as_default():
             output_dict = classify(img)
