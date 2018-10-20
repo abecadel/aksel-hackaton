@@ -15,15 +15,31 @@
 </head>
 <body>
 <div class="container">
+
+    <div class="row">
+        <div class="col">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <img class="step-img" src="img/step1.PNG">
+        </div>
+
+        <div class="col">
+            <img class="step-img" src="img/step2.PNG">
+        </div>
+    </div>
+
     <div class="row">
         <div class="col">
 
-            <h1>Upload new File</h1>
+            <h2>Upload new File</h2>
             <form action="/" method=post enctype=multipart/form-data>
                 <input type=file name=file id="files" accept="image/*;capture=camera">
                 <input type=submit value=Upload>
             </form>
-            <img id="upload_image" />
+            <img id="upload_image"/>
         </div>
     </div>
 </div>
