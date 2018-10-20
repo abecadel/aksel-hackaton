@@ -5,12 +5,21 @@ class MercCategories():
     def __init__(self, cat_file):
         self.cats = pd.read_csv(cat_file)
 
+    def prep_query(self, cat):
+        if cat is "coffee_mug":
+            return "cup"
+        elif cat is "granny_smith":
+            return "apple"
+        else:
+            return cat
+
     def find_by_cat3(self, cat):
-        ret = self.cats[self.cats['cat_3'].str.lower() == cat.lower()]
+        cat = self.prep_query(cat)
+        ret = self.cats[self.cats['cat_3'].str.lower().str.contains(cat.lower())]
         if len(ret) > 0:
             return ret.iloc[0].values
         else:
-            ret = self.cats[self.cats['cat_2'].str.lower() == cat.lower()]
+            ret = self.cats[self.cats['cat_2'].str.lower().str.contains(cat.lower())]
             if len(ret) > 0:
                 return ret.iloc[0].values
             else:
