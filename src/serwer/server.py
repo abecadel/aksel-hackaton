@@ -50,7 +50,9 @@ def prepare_model(image, output_dict):
     obj['detectedClass'] = detected_obj[1]
     mapped_class = merc_cat.find_by_cat3(detected_obj[1])
     if mapped_class is not None:
-        obj['class'] = " > ".join(mapped_class)
+        obj['class'] = mapped_class['category_name']
+        obj['stars'] = mapped_class['stars']
+        obj['sale_time'] = mapped_class['sale_time']
 
     view_model['objects'].append(obj)
 
@@ -85,7 +87,7 @@ def activate_job():
     global merc_cat
     graph = tf.get_default_graph()
     inception_model = inception_v3.InceptionV3(weights='imagenet')
-    merc_cat = MercCategories('mercari_cats.csv')
+    merc_cat = MercCategories('sales_to_list_ratio.csv')
 
 
 @app.route('/uploads/<filename>')
