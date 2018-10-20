@@ -1,0 +1,344 @@
+category_name,normalized_ratio,median
+Beauty/Bath & Body/Bath,2,9.0
+Beauty/Bath & Body/Cleansers,0,9.0
+Beauty/Bath & Body/Sets,0,9.0
+Beauty/Fragrance/Candles & Home Scents,2,9.0
+Beauty/Fragrance/Men,3,9.0
+Beauty/Fragrance/Sets,1,9.0
+Beauty/Fragrance/Women,2,9.0
+Beauty/Hair Care/Conditioners,1,9.0
+Beauty/Hair Care/Styling Products,3,9.0
+Beauty/Makeup/Brushes & Applicators,1,9.0
+Beauty/Makeup/Eyes,3,9.0
+Beauty/Makeup/Face,2,9.0
+Beauty/Makeup/Lips,2,9.0
+Beauty/Makeup/Makeup Palettes,2,9.0
+Beauty/Makeup/Makeup Sets,3,9.0
+Beauty/Makeup/Nails,2,9.0
+Beauty/Skin Care/Body,2,9.0
+Beauty/Skin Care/Eyes,3,9.0
+Beauty/Skin Care/Face,2,9.0
+Beauty/Skin Care/Lips,2,9.0
+Beauty/Skin Care/Other,0,8.0
+Beauty/Skin Care/Sun,1,9.0
+Beauty/Tools & Accessories/Epilators,0,8.5
+Beauty/Tools & Accessories/Hair Styling Tools,3,9.0
+Beauty/Tools & Accessories/Makeup Brushes & Tools,2,9.0
+Beauty/Tools & Accessories/Tweezers,0,9.0
+Electronics/Cameras & Photography/Camcorders,0,9.0
+Electronics/Cameras & Photography/Camera & Photo Accessories,3,9.0
+Electronics/Cameras & Photography/Digital Cameras,2,9.0
+Electronics/Cameras & Photography/Film Photography,3,9.0
+Electronics/Cameras & Photography/Lenses & Filters,0,8.0
+"Electronics/Car Audio, Video & GPS/Car Stereos & Components",0,9.0
+Electronics/Cell Phones & Accessories/Cables & Adapters,3,9.0
+"Electronics/Cell Phones & Accessories/Cases, Covers & Skins",2,9.0
+Electronics/Cell Phones & Accessories/Cell Phone Accessories,3,9.0
+Electronics/Cell Phones & Accessories/Cell Phones & Smartphones,2,9.0
+Electronics/Cell Phones & Accessories/Chargers & Cradles,3,9.0
+Electronics/Cell Phones & Accessories/Headsets,3,9.0
+Electronics/Cell Phones & Accessories/Screen Protectors,3,9.0
+"Electronics/Computers & Tablets/Drives, Storage & Media",2,9.0
+Electronics/Computers & Tablets/Laptops & Netbooks,1,9.0
+Electronics/Computers & Tablets/Other,0,9.0
+Electronics/Computers & Tablets/iPad/Tablet/eBook Readers,3,9.0
+Electronics/Media/Blu-Ray,2,9.0
+Electronics/Media/CD,3,9.0
+Electronics/Media/DVD,2,9.0
+Electronics/Other/Other,2,9.0
+"Electronics/TV, Audio & Surveillance/Gadgets",1,9.0
+"Electronics/TV, Audio & Surveillance/Headphones",2,9.0
+"Electronics/TV, Audio & Surveillance/Home Speakers & Subwoofers",0,9.0
+"Electronics/TV, Audio & Surveillance/Portable Audio & Accessories",3,9.0
+Electronics/Video Games & Consoles/Accessories,2,9.0
+Electronics/Video Games & Consoles/Consoles,2,9.0
+Electronics/Video Games & Consoles/Games,2,9.0
+Electronics/Video Games & Consoles/Video Gaming Merchandise,1,9.0
+Handmade/Accessories/Hair,1,9.0
+Handmade/Accessories/Lanyard,3,9.0
+Handmade/Accessories/Women,0,8.0
+Handmade/Bags and Purses/Purse,3,9.0
+Handmade/Bags and Purses/Tote,0,9.0
+Handmade/Bags and Purses/Wristlet,0,9.0
+Handmade/Children/Baby,1,9.0
+Handmade/Children/Clothing,0,8.0
+Handmade/Clothing/Corset,1,9.0
+Handmade/Clothing/Costume,1,9.0
+Handmade/Clothing/Lingerie,3,9.0
+Handmade/Geekery/Fantasy,0,6.0
+Handmade/Glass/Glassware,0,8.0
+Handmade/Housewares/Wall Decor,0,9.0
+Handmade/Jewelry/Jewelry,3,9.0
+Handmade/Music/Vinyl,1,9.0
+Handmade/Needlecraft/Embroidery,0,8.0
+Handmade/Paper Goods/Scrapbooking,1,9.0
+Handmade/Paper Goods/Stationery,1,9.0
+Handmade/Paper Goods/Sticker,2,9.0
+Home/Bedding/Comforters & Sets,1,9.0
+Home/Cleaning Supplies/Household Cleaners,3,9.0
+Home/Home Appliances/Kitchen Appliances,3,9.0
+Home/Home Décor/Candles & Holders,3,9.0
+Home/Home Décor/Decorative Pillows,1,9.0
+Home/Home Décor/Home Décor Accents,1,9.0
+Home/Home Décor/Home Fragrance,2,9.0
+Home/Home Décor/Other,0,8.0
+Home/Home Décor/Vases,0,9.0
+Home/Kitchen & Dining/Bakeware,1,9.0
+Home/Kitchen & Dining/Coffee & Tea Accessories,2,9.0
+Home/Kitchen & Dining/Dining & Entertaining,1,9.0
+Home/Kitchen & Dining/Kitchen & Table Linens,1,9.0
+Home/Kitchen & Dining/Kitchen Knives & Cutlery Accessories,0,9.0
+Home/Kitchen & Dining/Kitchen Utensils & Gadgets,1,9.0
+Home/Kitchen & Dining/Small Appliances,1,9.0
+Home/Kitchen & Dining/Storage & Organization,1,9.0
+Home/Other/Other,1,9.0
+Home/Seasonal Décor/Christmas,2,9.0
+Home/Seasonal Décor/Easter,0,9.0
+Home/Seasonal Décor/Halloween,2,9.0
+Home/Storage & Organization/Jewelry Boxes & Organizers,0,9.0
+"Home/Storage & Organization/Racks, Shelves & Drawers",1,9.0
+Kids/Boys (4+)/Accessories,1,9.0
+Kids/Boys (4+)/Bottoms,3,9.0
+Kids/Boys (4+)/Coats & Jackets,1,9.0
+Kids/Boys (4+)/Shoes,3,9.0
+Kids/Boys (4+)/Top & T-shirts,1,9.0
+Kids/Boys 0-24 Mos/Coats & Jackets,2,9.0
+Kids/Boys 0-24 Mos/One-Pieces,2,9.0
+Kids/Boys 0-24 Mos/Other,2,9.0
+Kids/Boys 0-24 Mos/Shoes,2,9.0
+Kids/Boys 0-24 Mos/Tops & T-Shirts,3,9.0
+Kids/Boys 2T-5T/Accessories,0,9.0
+Kids/Boys 2T-5T/Bottoms,0,9.0
+Kids/Boys 2T-5T/Shoes,2,9.0
+Kids/Boys 2T-5T/Tops & T-Shirts,3,9.0
+Kids/Car Seats & Accessories/Accessories,1,9.0
+Kids/Car Seats & Accessories/Car Seats,0,9.0
+Kids/Diapering/Cloth Diapers,0,9.0
+Kids/Diapering/Diaper Bags,1,9.0
+Kids/Diapering/Disposable Diapers,1,9.0
+Kids/Diapering/Wipes & Holders,0,9.0
+Kids/Feeding/Pacifiers & Accessories,1,9.0
+Kids/Feeding/Storage & Containers,0,9.0
+Kids/Gear/Baby Gyms & Playmats,0,9.0
+Kids/Gear/Backpacks & Carriers,2,9.0
+Kids/Girls (4+)/Coats & Jackets,3,9.0
+Kids/Girls (4+)/Dresses,2,9.0
+Kids/Girls (4+)/Jeans,3,9.0
+Kids/Girls (4+)/Other,3,9.0
+Kids/Girls (4+)/Shoes,1,9.0
+Kids/Girls (4+)/Tops & T-Shirts,3,9.0
+Kids/Girls 0-24 Mos/Accessories,1,9.0
+Kids/Girls 0-24 Mos/Coats & Jackets,1,9.0
+Kids/Girls 0-24 Mos/Dresses,1,9.0
+Kids/Girls 0-24 Mos/One-Pieces,2,9.0
+Kids/Girls 0-24 Mos/Other,2,9.0
+Kids/Girls 0-24 Mos/Shoes,2,9.0
+Kids/Girls 2T-5T/Coats & Jackets,1,9.0
+Kids/Girls 2T-5T/Dresses,3,9.0
+Kids/Girls 2T-5T/Shoes,1,9.0
+Kids/Girls 2T-5T/Tops & T-Shirts,3,9.0
+Kids/Health & Baby Care/Teethers,0,9.0
+Kids/Nursery/Other,0,9.0
+Kids/Other/Other,1,9.0
+Kids/Strollers/Accessories,0,9.0
+Kids/Toys/Action Figures & Statues,2,9.0
+Kids/Toys/Arts & Crafts,2,9.0
+Kids/Toys/Baby & Toddler Toys,3,9.0
+Kids/Toys/Building Toys,3,9.0
+Kids/Toys/Dolls & Accessories,1,9.0
+Kids/Toys/Dress Up & Pretend Play,1,9.0
+Kids/Toys/Games,1,9.0
+Kids/Toys/Hobbies,3,9.0
+Kids/Toys/Sports & Outdoor Play,1,9.0
+Kids/Toys/Stuffed Animals & Plush,3,9.0
+Kids/Toys/Toy Remote Control & Play Vehicles,2,9.0
+Men/Athletic Apparel/Jackets,3,9.0
+Men/Athletic Apparel/Jerseys,2,9.0
+Men/Athletic Apparel/Pants,1,9.0
+Men/Athletic Apparel/Shirts & Tops,0,9.0
+Men/Athletic Apparel/Shorts,3,9.0
+Men/Athletic Apparel/Socks,3,9.0
+Men/Coats & Jackets/Fleece Jacket,1,9.0
+Men/Coats & Jackets/Windbreaker,0,9.0
+Men/Jeans/Boot Cut,2,9.0
+"Men/Jeans/Classic, Straight Leg",3,9.0
+Men/Jeans/Relaxed,0,9.0
+"Men/Men's Accessories/Backpacks, Bags & Briefcases",1,9.0
+Men/Men's Accessories/Belts,3,9.0
+Men/Men's Accessories/Hats,2,9.0
+Men/Men's Accessories/Other,1,9.0
+Men/Men's Accessories/Sunglasses,3,9.0
+Men/Men's Accessories/Wallets,1,9.0
+Men/Men's Accessories/Watches,1,9.0
+Men/Other/Other,3,9.0
+Men/Pants/Cargo,0,9.0
+Men/Pants/Dress - Flat Front,0,9.0
+Men/Pants/Other,0,8.0
+Men/Shoes/Athletic,2,9.0
+Men/Shoes/Boots,2,9.0
+Men/Shoes/Fashion Sneakers,2,9.0
+Men/Shoes/Oxfords,0,9.0
+Men/Shoes/Sandals,0,9.0
+Men/Shorts/Casual Shorts,2,9.0
+Men/Sweats & Hoodies/Hoodie,1,9.0
+"Men/Sweats & Hoodies/Sweatshirt, Pullover",3,9.0
+Men/Tops/Button-Front,1,9.0
+Men/Tops/Other,0,9.0
+Men/Tops/T-shirts,3,9.0
+Men/Tops/Tank,1,9.0
+Other/Automotive/Car Electronics & Accessories,1,9.0
+Other/Automotive/Exterior Accessories,0,9.0
+Other/Automotive/Lights & Lighting Accessories,0,9.0
+Other/Automotive/Tools & Equipment,1,9.0
+Other/Books/Children's Books,3,9.0
+Other/Books/Christian Books & Bibles,0,9.0
+Other/Books/Education & Teaching,3,9.0
+Other/Books/Literature & Fiction,1,9.0
+Other/Books/Medical Books,0,8.0
+Other/Books/Religion & Spirituality,1,9.0
+Other/Daily & Travel items/Health Care,1,9.0
+Other/Daily & Travel items/Household Supplies,1,9.0
+Other/Daily & Travel items/Medical Supplies & Equipment,2,9.0
+Other/Daily & Travel items/Personal Care,3,9.0
+Other/Daily & Travel items/Stationery & Party Supplies,0,9.0
+"Other/Musical instruments/DJ, Electronic Music & Karaoke",0,9.0
+Other/Musical instruments/Instrument Accessories,0,9.0
+Other/Musical instruments/Stringed Instruments,0,9.0
+Other/Office supplies/Basic Supplies,0,9.0
+Other/Office supplies/Ink & Toner,1,9.0
+Other/Office supplies/School Supplies,3,9.0
+Other/Office supplies/Shipping Supplies,1,9.0
+Other/Other/Other,2,9.0
+Other/Pet Supplies/Dogs,2,9.0
+Sports & Outdoors/Apparel/Boys,3,9.0
+Sports & Outdoors/Apparel/Girls,1,8.0
+Sports & Outdoors/Exercise/Athletic Training,1,9.0
+Sports & Outdoors/Exercise/Fitness accessories,1,9.0
+Sports & Outdoors/Exercise/Fitness technology,1,9.0
+Sports & Outdoors/Fan Shop/MLB,1,9.0
+Sports & Outdoors/Fan Shop/NBA,1,9.0
+Sports & Outdoors/Fan Shop/NFL,3,9.0
+Sports & Outdoors/Fan Shop/NHL,0,9.0
+Sports & Outdoors/Other/Other,0,9.0
+Sports & Outdoors/Outdoors/Fishing,1,9.0
+Sports & Outdoors/Outdoors/Hiking & Camping,2,9.0
+Sports & Outdoors/Outdoors/Indoor/Outdoor Games,0,9.0
+Sports & Outdoors/Team Sports/Soccer,1,9.0
+Vintage & Collectibles/Accessories/Gloves,0,9.5
+Vintage & Collectibles/Accessories/Keychain,3,9.0
+Vintage & Collectibles/Antique/Collectibles,2,9.0
+Vintage & Collectibles/Bags and Purses/Handbag,2,9.0
+Vintage & Collectibles/Bags and Purses/Purse,1,9.0
+Vintage & Collectibles/Book/Children,0,8.0
+Vintage & Collectibles/Book/Other,0,9.0
+Vintage & Collectibles/Clothing/Corset,0,8.0
+Vintage & Collectibles/Clothing/Shorts,2,9.0
+Vintage & Collectibles/Clothing/Sweater,1,9.0
+Vintage & Collectibles/Clothing/Tshirt,0,9.0
+Vintage & Collectibles/Collectibles/Figurine,3,9.0
+Vintage & Collectibles/Collectibles/Other,2,9.0
+Vintage & Collectibles/Collectibles/Souvenir,2,9.0
+Vintage & Collectibles/Electronics/Video Game,2,9.0
+Vintage & Collectibles/Home Decor/Other,0,8.0
+Vintage & Collectibles/Housewares/Cup,1,3.0
+Vintage & Collectibles/Other/Other,1,9.0
+Vintage & Collectibles/Toy/Action Figure,3,9.0
+Vintage & Collectibles/Toy/Animal,1,8.0
+Vintage & Collectibles/Trading Cards/Animation,2,9.0
+Vintage & Collectibles/Trading Cards/Sports,2,9.0
+Vintage & Collectibles/Trading Cards/Vintage,1,8.0
+Women/Athletic Apparel/Jackets,3,9.0
+"Women/Athletic Apparel/Pants, Tights, Leggings",3,9.0
+Women/Athletic Apparel/Shirts & Tops,2,9.0
+Women/Athletic Apparel/Shorts,2,9.0
+"Women/Athletic Apparel/Skirts, Skorts & Dresses",1,9.0
+Women/Athletic Apparel/Socks,1,9.0
+Women/Athletic Apparel/Sports Bras,2,9.0
+Women/Athletic Apparel/Tracksuits & Sweats,2,9.0
+Women/Coats & Jackets/Cape,0,9.0
+Women/Coats & Jackets/Fleece Jacket,3,9.0
+Women/Coats & Jackets/Jean Jacket,1,9.0
+Women/Coats & Jackets/Motorcycle,3,9.0
+Women/Coats & Jackets/Other,2,9.0
+Women/Coats & Jackets/Peacoat,2,8.0
+Women/Coats & Jackets/Puffer,2,9.0
+Women/Coats & Jackets/Vest,3,9.0
+Women/Coats & Jackets/Wool,0,9.0
+"Women/Dresses/Above Knee, Mini",3,9.0
+Women/Dresses/Asymmetrical Hem,1,9.0
+Women/Dresses/Full-Length,3,9.0
+Women/Dresses/Knee-Length,3,9.0
+Women/Dresses/Other,2,9.0
+Women/Jeans/Boot Cut,3,9.0
+Women/Jeans/Flare,0,9.0
+Women/Jeans/Leggings,2,9.0
+"Women/Jeans/Slim, Skinny",3,12.0
+Women/Jeans/Straight Leg,2,9.0
+Women/Jewelry/Bracelets,2,9.0
+Women/Jewelry/Earrings,2,9.0
+Women/Jewelry/Necklaces,2,9.0
+Women/Jewelry/Rings,3,9.0
+Women/Maternity/Tops & Blouses,1,9.0
+Women/Other/Other,2,9.0
+"Women/Pants/Capris, Cropped",3,9.0
+Women/Pants/Casual Pants,2,9.0
+Women/Pants/Dress Pants,1,9.0
+"Women/Pants/Khakis, Chinos",0,9.0
+Women/Pants/Other,1,9.0
+Women/Shoes/Athletic,2,9.0
+Women/Shoes/Boots,0,2.0
+Women/Shoes/Fashion Sneakers,2,9.0
+Women/Shoes/Flats,3,9.0
+Women/Shoes/Loafers & Slip-Ons,3,9.0
+Women/Shoes/Other,3,9.0
+Women/Shoes/Pumps,2,9.0
+Women/Shoes/Sandals,2,9.0
+Women/Shoes/Slippers,2,9.0
+Women/Skirts/A-Line,2,9.0
+Women/Skirts/Maxi,2,9.0
+Women/Skirts/Mini,2,9.0
+Women/Skirts/Other,0,9.0
+"Women/Skirts/Straight, Pencil",3,9.0
+Women/Suits & Blazers/Blazer,2,9.0
+Women/Sweaters/Cardigan,3,9.0
+Women/Sweaters/Collared,0,9.0
+Women/Sweaters/Crewneck,3,9.0
+Women/Sweaters/Full Zip,1,9.0
+Women/Sweaters/Hooded,2,9.0
+Women/Sweaters/Poncho,0,9.0
+Women/Sweaters/Tunic,0,9.0
+"Women/Sweaters/Turtleneck, Mock",0,9.0
+Women/Sweaters/V-Neck,2,9.0
+"Women/Sweaters/Vest, Sleeveless",1,9.0
+Women/Swimwear/Beach Accessories,1,9.0
+Women/Swimwear/One-Piece,3,9.0
+Women/Swimwear/Two-Piece,2,9.0
+Women/Tops & Blouses/Blouse,1,9.0
+Women/Tops & Blouses/Button Down Shirt,3,9.0
+Women/Tops & Blouses/Halter,3,9.0
+Women/Tops & Blouses/Knit Top,1,9.0
+Women/Tops & Blouses/Other,1,9.0
+Women/Tops & Blouses/Polo Shirt,1,9.0
+Women/Tops & Blouses/T-Shirts,0,4.0
+"Women/Tops & Blouses/Tank, Cami",2,9.0
+Women/Tops & Blouses/Tunic,3,9.0
+Women/Tops & Blouses/Wrap,1,9.0
+Women/Underwear/Bras,3,9.0
+Women/Underwear/G-Strings & Thongs,1,9.0
+Women/Underwear/Other,3,9.0
+Women/Underwear/Panties,1,9.0
+Women/Women's Accessories/Hair Accessories,2,9.0
+Women/Women's Accessories/Hats,3,9.0
+Women/Women's Accessories/Other,1,9.0
+Women/Women's Accessories/Scarves & Wraps,3,9.0
+Women/Women's Accessories/Sunglasses,3,9.0
+Women/Women's Accessories/Wallets,2,9.0
+Women/Women's Accessories/Watches,3,9.0
+Women/Women's Handbags/Backpack Style,3,9.0
+Women/Women's Handbags/Baguette,0,9.0
+Women/Women's Handbags/Cosmetic Bags,3,9.0
+Women/Women's Handbags/Messenger & Crossbody,2,9.0
+Women/Women's Handbags/Other,1,9.0
+Women/Women's Handbags/Satchel,3,9.0
+Women/Women's Handbags/Shoulder Bag,2,9.0
+Women/Women's Handbags/Totes & Shoppers,3,9.0
