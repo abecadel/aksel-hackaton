@@ -19,8 +19,8 @@ class MercCategories():
     def prep_resp(self, ret):
         a = {
             'category_name': ret['category_name'],
-            'stars': ret['normalized_ratio'],
-            'sale_time': ret['median']
+            'stars': int(ret['normalized_ratio']) + 1,
+            'sale_time': int(ret['median'])
         }
         print(a)
         return a

@@ -16,33 +16,63 @@
 <body>
 
 <div class="container">
+    <div class="row">
+    </div>
+
     {% for o in model.objects %}
     <div class="row">
         <div class="col">
             <img class="image_list" src="/uploads/{{model.image}}"/>
         </div>
-        <div class="col">
-            detected class:
-            {{ o.detectedClass }}
-        </div>
 
         <div class="col">
-            Mercari class:
-            {{ o.class }}
-        </div>
+            <div class="row">
+                <div class="col">
+                    <div class="row">
+                        <div class="hdr-class">Detected category:</div>
+                    </div>
+                    <div class="row">
+                        <div class="val-class"> {{ o.detectedClass }}</div>
+                    </div>
+                </div>
+            </div>
 
-        <div class="col">
-            Time to Sale:
-            {{ o.sale_time }}
-        </div>
+            <div class="row">
+                <div class="col">
+                    <div class="row">
+                        <div class="hdr-class">Category:</div>
+                    </div>
+                    <div class="row">
+                        <div class="val-class">{{ o.class }}</div>
+                    </div>
+                </div>
+            </div>
 
-        <div class="col">
-            Stars:
-            {{ o.stars }}
-        </div>
+            <div class="row">
+                <div class="col">
+                    <div class="row">
+                        <div class="hdr-class">Sale potential rating:</div>
+                    </div>
+                    <div class="row">
+                        <img class="star-img" src="img/{{ o.stars }}.PNG">
+                    </div>
+                </div>
+            </div>
 
-        <div class="col">
-            <button>Sell</button>
+            <div class="row">
+                <div class="col">
+                    <div class="row">
+                        <div class="hdr-class">Estimated time to sale:</div>
+                    </div>
+                    <div class="row">
+                        <div class="val-class">{{ o.sale_time }}</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <img class="sell-img" src="img/sell_now.PNG">
+            </div>
         </div>
     </div>
     {% endfor %}

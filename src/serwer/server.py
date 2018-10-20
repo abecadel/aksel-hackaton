@@ -60,6 +60,11 @@ def prepare_model(image, output_dict):
 
 
 @app.route('/', methods=['GET', 'POST'])
+def root():
+    return render_template('index.html')
+
+
+@app.route('/upload', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
         f = request.files['file']

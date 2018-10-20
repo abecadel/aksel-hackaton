@@ -3,10 +3,28 @@
 }
 
 .image_list {
-    height: 200px;
+    height: 400px;
     display: block;
 }
 
 .step-img {
     height: 300px;
+}
+
+.hdr-class {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.val-class {
+    font-size: larger;
+}
+
+.star-img {
+    height: 90px;
+}
+
+.sell-img {
+    height: 90px;
+    cursor: pointer;
 }
